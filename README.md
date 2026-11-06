@@ -195,18 +195,7 @@ A complete mobile app design: onboarding, incident reporting, live map tracking,
 
 <img src="https://streak-stats.demolab.com?user=Bhargavi2048&theme=dark&hide_border=true&background=0D0720&ring=7C3AED&fire=22D3EE&currStreakNum=F5F3FF&sideNums=F5F3FF&currStreakLabel=A78BFA&sideLabels=C4B5FD&dates=8B5CF6" width="100%" alt="GitHub streak" />
 
-<br/>
-
-<img src="profile-summary-card-output/dracula/3-stats.svg" width="49%" alt="GitHub stats" />
-<img src="profile-summary-card-output/dracula/2-most-commit-language.svg" width="49%" alt="Most used languages by commits" />
-
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/Bhargavi2048/Bhargavi2048/output/github-snake.svg" width="100%" alt="Contribution snake animation" />
-
 </div>
-
-<img src="assets/divider.svg" width="100%" alt="" />
 
 ## 🎯 Currently
 
