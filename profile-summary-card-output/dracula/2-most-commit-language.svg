@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 495 195" width="495" height="195" role="img" aria-label="Most used languages (placeholder until the workflow runs)">
+  <rect width="495" height="195" rx="12" fill="#0D0720" stroke="#4C1D95"/>
+  <text x="247" y="92" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="18" font-weight="600" fill="#C4B5FD">Most used languages</text>
+  <text x="247" y="120" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" fill="#7C6BB5">Updates after the first workflow run</text>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 100" width="1000" height="100" role="presentation">
+  <defs>
+    <linearGradient id="w" x1="0" x2="1">
+      <stop offset="0" stop-color="#4C1D95"/>
+      <stop offset="1" stop-color="#22D3EE"/>
+    </linearGradient>
+  </defs>
+  <path d="M0 55 Q125 15 250 55 T500 55 T750 55 T1000 55 T1250 55 T1500 55 T1750 55 T2000 55 V100 H0Z" fill="url(#w)" opacity="0.35">
+    <animateTransform attributeName="transform" type="translate" from="0 0" to="-500 0" dur="12s" repeatCount="indefinite"/>
+  </path>
+  <path d="M0 65 Q125 35 250 65 T500 65 T750 65 T1000 65 T1250 65 T1500 65 T1750 65 T2000 65 V100 H0Z" fill="#2E1065" opacity="0.9">
+    <animateTransform attributeName="transform" type="translate" from="-500 0" to="0 0" dur="9s" repeatCount="indefinite"/>
+  </path>
+  <rect y="85" width="1000" height="15" fill="#05010F"/>
+</svg>

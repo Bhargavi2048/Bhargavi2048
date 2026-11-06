@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 150" width="1000" height="150" role="img" aria-label="Highlights: CGPA 9.45, 3rd place Prompt Run 2026, 3 live apps, 3 internships">
+  <defs>
+    <linearGradient id="card" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1E1B4B"/><stop offset="1" stop-color="#2E1065"/></linearGradient>
+    <linearGradient id="num" x1="0" x2="1"><stop offset="0" stop-color="#F5F3FF"/><stop offset="1" stop-color="#22D3EE"/></linearGradient>
+  </defs>
+  <style>
+    text{font-family:'Segoe UI',Helvetica,Arial,sans-serif;text-anchor:middle}
+    .card{animation:pop .9s ease-out both} .c2{animation-delay:.2s} .c3{animation-delay:.4s} .c4{animation-delay:.6s}
+    .n{font-size:36px;font-weight:700;fill:url(#num)} .l{font-size:13px;fill:#C4B5FD;letter-spacing:1px}
+    .b{fill:url(#card);stroke:#7C3AED;stroke-width:1.5;animation:glow 4s ease-in-out infinite}
+    @keyframes pop{from{opacity:0;transform:translateY(18px)}to{opacity:1;transform:none}}
+    @keyframes glow{0%,100%{stroke-opacity:.35}50%{stroke-opacity:1}}
+  </style>
+  <g class="card"><rect class="b" x="10" y="15" width="225" height="120" rx="16"/><text class="n" x="122" y="75">9.45</text><text class="l" x="122" y="105">CGPA  ·  B.E. CSE</text></g>
+  <g class="card c2"><rect class="b" x="265" y="15" width="225" height="120" rx="16" style="animation-delay:1s"/><text class="n" x="377" y="75">3rd Place</text><text class="l" x="377" y="105">PROMPT RUN 2026  ·  96.7/100</text></g>
+  <g class="card c3"><rect class="b" x="520" y="15" width="225" height="120" rx="16" style="animation-delay:2s"/><text class="n" x="632" y="75">3 Live Apps</text><text class="l" x="632" y="105">DEPLOYED ON RENDER</text></g>
+  <g class="card c4"><rect class="b" x="775" y="15" width="215" height="120" rx="16" style="animation-delay:3s"/><text class="n" x="882" y="75">3 Internships</text><text class="l" x="882" y="105">GEN-AI  ·  AI  ·  UI/UX</text></g>
+</svg>

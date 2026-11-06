@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 478" width="1000" height="478" role="img" aria-label="Experience timeline: UI/UX Designing Intern at Thiranex (Sep-Oct 2026), Generative AI and Prompt Engineering Intern at Tamizhan Skills (Jun-Jul 2026), AI for Sustainability Intern at 1M1B with IBM SkillsBuild and AICTE (May-Jun 2026), UI/UX Design Office Bearer at F.A.B.R.I.C. (ongoing)">
+  <defs>
+    <linearGradient id="ln" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#22D3EE"/><stop offset="1" stop-color="#7C3AED"/></linearGradient>
+    <linearGradient id="cd" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1E1B4B"/><stop offset="1" stop-color="#2E1065"/></linearGradient>
+  </defs>
+  <style>
+    text{font-family:'Segoe UI',Helvetica,Arial,sans-serif}
+    .card{fill:url(#cd);stroke:#7C3AED;stroke-width:1.5;stroke-opacity:.6}
+    .role{font-size:19px;font-weight:700;fill:#F5F3FF} .org{font-size:14px;fill:#67E8F9} .desc{font-size:14px;fill:#C4B5FD}
+    .dt{font-size:14px;font-weight:700;fill:#A78BFA;text-anchor:end;letter-spacing:1px}
+    .in{animation:in .8s ease-out both}
+    @keyframes in{from{opacity:0;transform:translateX(18px)}to{opacity:1;transform:none}}
+    .node{fill:#22D3EE;stroke:#05010F;stroke-width:3;animation:in .6s ease-out both}
+    .pulse{stroke-width:2;transform-box:fill-box;transform-origin:center;animation:pl 3s ease-out infinite}
+    @keyframes pl{0%{transform:scale(.8);opacity:.9}100%{transform:scale(2.2);opacity:0}}
+    .draw{stroke-dasharray:348;stroke-dashoffset:348;animation:dr 2.6s ease-out .3s forwards}
+    @keyframes dr{to{stroke-dashoffset:0}}
+    .spark{animation:sp 5s linear infinite}
+    @keyframes sp{0%{transform:translateY(0);opacity:0}10%{opacity:1}90%{opacity:1}100%{transform:translateY(338px);opacity:0}}
+  </style>
+  <rect x="0" y="0" width="1000" height="478" rx="20" fill="#0D0720"/>
+  <path d="M250 86.0V424.0" stroke="#312E81" stroke-width="3"/>
+  <path class="draw" d="M250 86.0V424.0" stroke="url(#ln)" stroke-width="3" fill="none"/>
+  <circle class="spark" cx="250" cy="86.0" r="3.5" fill="#fff"/>
+  <g class="in" style="animation-delay:0.5s"><rect class="card" x="290" y="42.0" width="680" height="92" rx="14"/><text class="role" x="316" y="74.0">UI/UX Designing Intern</text><text class="org" x="316" y="96.0">Thiranex  ·  Remote</text><text class="desc" x="316" y="120.0">Low-fi app wireframe, a Nike website redesign and an interactive prototype in Figma</text></g><g class="in" style="animation-delay:0.5s"><text class="dt" x="214" y="93.0">SEP – OCT 2026</text><path d="M222 88.0H238" stroke="#4C1D95" stroke-width="2"/></g><circle class="pulse" cx="250" cy="88.0" r="10" fill="none" stroke="#22D3EE" style="animation-delay:0.0s"/><circle class="node" cx="250" cy="88.0" r="7" style="animation-delay:0.5s"/><g class="in" style="animation-delay:1.1s"><rect class="card" x="290" y="154.0" width="680" height="92" rx="14"/><text class="role" x="316" y="186.0">Generative AI &amp; Prompt Engineering Intern</text><text class="org" x="316" y="208.0">Tamizhan Skills  ·  Remote</text><text class="desc" x="316" y="232.0">Built GitHub Portfolio Analyzer: API integration with AI-driven recommendations</text></g><g class="in" style="animation-delay:1.1s"><text class="dt" x="214" y="205.0">JUN – JUL 2026</text><path d="M222 200.0H238" stroke="#4C1D95" stroke-width="2"/></g><circle class="pulse" cx="250" cy="200.0" r="10" fill="none" stroke="#22D3EE" style="animation-delay:0.7s"/><circle class="node" cx="250" cy="200.0" r="7" style="animation-delay:1.1s"/><g class="in" style="animation-delay:1.7s"><rect class="card" x="290" y="266.0" width="680" height="92" rx="14"/><text class="role" x="316" y="298.0">AI for Sustainability Intern</text><text class="org" x="316" y="320.0">1M1B × IBM SkillsBuild × AICTE  ·  Remote</text><text class="desc" x="316" y="344.0">Shipped PawConnect AI and PawBot with a live analytics dashboard on Render</text></g><g class="in" style="animation-delay:1.7s"><text class="dt" x="214" y="317.0">MAY – JUN 2026</text><path d="M222 312.0H238" stroke="#4C1D95" stroke-width="2"/></g><circle class="pulse" cx="250" cy="312.0" r="10" fill="none" stroke="#22D3EE" style="animation-delay:1.4s"/><circle class="node" cx="250" cy="312.0" r="7" style="animation-delay:1.7s"/><g class="in" style="animation-delay:2.3s"><rect class="card" x="290" y="378.0" width="680" height="92" rx="14"/><text class="role" x="316" y="410.0">UI/UX Design Office Bearer</text><text class="org" x="316" y="432.0">F.A.B.R.I.C.</text><text class="desc" x="316" y="456.0">Designing posters and creatives for college hackathons and events</text></g><g class="in" style="animation-delay:2.3s"><text class="dt" x="214" y="429.0">ONGOING</text><path d="M222 424.0H238" stroke="#4C1D95" stroke-width="2"/></g><circle class="pulse" cx="250" cy="424.0" r="10" fill="none" stroke="#22D3EE" style="animation-delay:2.0999999999999996s"/><circle class="node" cx="250" cy="424.0" r="7" style="animation-delay:2.3s"/>
+</svg>
